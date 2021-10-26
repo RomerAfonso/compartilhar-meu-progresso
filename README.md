@@ -1,2 +1,2 @@
-# compartilhar-meu-progresso
+# Compartilhar meu Progresso
 Repositório para compartilhar meu progresso
